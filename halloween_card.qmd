@@ -1,0 +1,25 @@
+---
+format:
+    revealjs:
+        theme: [blood, assets/custom.scss]
+        self-contained: true
+---
+:::{fig-ncol=2}
+![](assets/spooky-cat.png)
+![](assets/ghost.png)
+:::
+:::{.r-stack}
+Your presence has been summoned
+:::
+:::{.r-stack}
+Join Geraldine and I for a spooktacular get-together... if you dare.
+:::
+:::{.r-stack}
+Shed your human form, and come in your creepiest attire. 
+:::
+:::{.r-stack}
+Food and boo's will be provided. But feel free to bring your own.
+:::
+:::{.r-stack}
+[Please RSVP here!](damoncroberts.com)
+:::
